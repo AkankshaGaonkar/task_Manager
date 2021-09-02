@@ -1,5 +1,5 @@
-# Task_Master
-Task Master is a To-Do list web application built using python programming language in a python virtualenv .This virtualenv is used to manage Python packages for different projects. Using virtualenv allows you to avoid installing Python packages globally which could break system tools or also work with other people and diffrent other projects. Backend is designed by flask micro web framework and sqlalchemy as database and front end is designed by HTML3 CSS.It tabulate and display all unfinished and finished tasks. We can add new task, delete and update unfinished task.
+# taskMaster
+Task Master is a To-Do list Web Application built using python programming language in a python virtualenv .This virtualenv is used to manage Python packages for different projects. Using virtualenv allows you to avoid installing Python packages globally which could break system tools or also work with other people and diffrent other projects. Backend is designed by flask micro web framework and sqlalchemy as database and front end is designed by HTML5 & CSS3.It tabulates and display all unfinished and finished tasks. We can add new task, delete and update unfinished task.
 
 
 ### How To Run
